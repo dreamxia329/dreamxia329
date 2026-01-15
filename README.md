@@ -60,10 +60,13 @@ Aug 2024 – Present
 
 ## Education
 **University of Nebraska at Omaha**  
+**Master of Science in Computer Science (Artificial Intelligence)**  
+Summer 2024 – May 2026 (in progress)
+
+**University of Nebraska at Omaha**  
 Master of Science in Computer Science (AI Concentration), 2024–2026  
 Bachelor of Science in Computer Science, 2024  
 GPA: 3.75 / 4.0
-
 ---
 
 ## Contact
