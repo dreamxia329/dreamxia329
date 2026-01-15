@@ -64,9 +64,9 @@ Aug 2024 – Present
 Summer 2024 – May 2026 (in progress)
 
 **University of Nebraska at Omaha**  
-Master of Science in Computer Science (AI Concentration), 2024–2026  
-Bachelor of Science in Computer Science, 2024  
-GPA: 3.75 / 4.0
+**Bachelor of Science in Computer Science**  
+Winter 2021 - May 2024  
+
 ---
 
 ## Contact
