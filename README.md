@@ -1,7 +1,6 @@
 # Meng (Dream) Xia
 
 Graduate Research Assistant | M.S. Computer Science (AI)  
-Elkhorn, NE  
 Expected Graduation: May 2026  
 
 ---
